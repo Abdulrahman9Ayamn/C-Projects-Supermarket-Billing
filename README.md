@@ -1,2 +1,2 @@
-# C-Projects-Supermarket-Billing
-C++ Projects  Supermarket Billing
+# C++_Teacher_and_student_registratino
+Teacher_and_student_registratino
